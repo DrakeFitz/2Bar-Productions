@@ -1,0 +1,15 @@
+ @import url("https://use.typekit.net/tyo2fdh.css");
+ @import url("https://use.typekit.net/tyo2fdh.css");
+
+.topnav {
+    background-color: #007eaf;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #434243;
+    text-align: center;
+    font-family: "Gia Variable", sans-serif;
+    font-weight: 700;
+}
